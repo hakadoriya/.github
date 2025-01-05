@@ -21,6 +21,7 @@
 - [ ] Assign labels
 - [ ] Assign reviewers
 - [ ] Assign assignees
+- [ ] Add appropriate test cases
 
 ## Remark
 
