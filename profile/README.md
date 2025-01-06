@@ -1,4 +1,4 @@
-# [`hakadoriya`](https://hakadoriya.github.io/)
+# [`hakadoriya`](https://github.com/hakadoriya)
 
 ## Repositories
 
