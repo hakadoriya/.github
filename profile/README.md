@@ -8,7 +8,7 @@
 🐙 GitHub Actions
 -->
 
-## [`hakadoriya`](https://github.com/hakadoriya) - Repositories
+## [`hakadoriya`](https://github.com/hakadoriya)
 
 | Name                                                      | Description                                                                                                                                                             |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@
 | [📚 `log.sh`](https://github.com/hakadoriya/log.sh)        | A lightweight and no dependencies JSON logger for POSIX Shell Script                                                                                                    |
 | [📚 `z.go`](https://github.com/hakadoriya/z.go)            | A collection of frequently used utility functions for Go                                                                                                                |
 
-## [`hakadoriya-actions`](https://github.com/hakadoriya-actions) - GitHub Actions Repositories
+## [`hakadoriya-actions`](https://github.com/hakadoriya-actions)
 
 | Name                                                                                           | Description                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
