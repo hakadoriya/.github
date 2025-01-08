@@ -42,5 +42,4 @@ jobs:
           ${{ toJSON(github) }}
           ================================================================
           DEBUG_DOC
-      - name: Check spelling
-        uses: crate-ci/typos@master
+      - uses: crate-ci/typos@v1.29.4

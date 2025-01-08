@@ -1,10 +1,11 @@
-# [`hakadoriya`](https://github.com/hakadoriya)
+# [`Hakadoriya Co.`](https://hakadoriya.github.io/)
 
 <!--
 📝 docs
 🔧 tool
 🧰 collection of tools
 📚 library
+🐙 GitHub Actions
 -->
 
 ## [`hakadoriya`](https://github.com/hakadoriya) - Repositories
