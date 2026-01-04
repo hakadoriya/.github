@@ -2,7 +2,7 @@
 
 ## Ticket / Issue Number
 
-> **Note**
+> [!NOTE]
 > *Please fill in the ticket or issue number.*
 > > Example:
 > >
@@ -10,7 +10,7 @@
 
 ## What's changed
 
-> **Note**
+> [!NOTE]
 > *Please explain what changes this pull request will make.*
 > > Example:
 > >
@@ -25,7 +25,7 @@
 
 ## Remark
 
-> **Note**
+> [!NOTE]
 > *Please provide additional remarks if necessary.*
 
 <!-- markdownlint-enable MD004 MD041 -->
